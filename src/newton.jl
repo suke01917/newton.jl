@@ -1,6 +1,6 @@
 module newton
 
-greet() = "Hello!!!"
+greet() = "Hello World!!"
 # Write your package code here.
 
 end
